@@ -7,9 +7,9 @@ Build a tic-tac-toe web application against each other or Computer.
 Implement functions to handle user clicks, track game state, and check for winning conditions, you can create an interactive and engaging tic-tac-toe game.
                                                     
                                                   CODE AND EXICUTION:
-FILE: [index.html](https://github.com/user-attachments/files/29339081/index.html)
+FILE: [index.html](https://github.com/user-attachments/files/29340105/index.html)
 
-FOR LIVE VIEW AND MOBILE: https://tic-tac-toe-gc.netlify.app/
+FOR LIVE VIEW AND MOBILE: https://tic-tac-toeog.netlify.app/
 
 CODE:
 <!DOCTYPE html>
