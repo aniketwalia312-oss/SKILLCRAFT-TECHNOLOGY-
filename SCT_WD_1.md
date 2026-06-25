@@ -1,3 +1,5 @@
+
+
 # SKILLCRAFT-TECHNOLOGY-
 
                                                 TASK-1(LANDING PAGE): CLOCKIT
@@ -13,9 +15,9 @@ have a fixed position and be
 visible on all pages.
 
                                                       CODE AND EXICUTION:
-FILE:  [index.html](https://github.com/user-attachments/files/29061745/index.html)
+FILE:  [index.html](https://github.com/user-attachments/files/29337172/index.html)
 
-FOR PHONES AND LIVE VIEW: https://clockit-india.netlify.app/
+FOR PHONES AND LIVE VIEW: https://clockitgg.netlify.app/
 
 
 CODE:  title > CLOCKIT | Celestial Chronology & Space-Time Loops</title>
